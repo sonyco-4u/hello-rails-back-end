@@ -203,6 +203,6 @@ Thanks to anyone whose code/recommendation/documentation was helpful getting thi
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/sonyco-4u/hello-rails-back-end/new/rails-back-end) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
